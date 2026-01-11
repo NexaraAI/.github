@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NexaraAI/NexaraAI/main/logo.png" width="140">
+  <img src="https://github.com/NexaraAI/.github/blob/main/profile/logo.png" width="140">
 </p>
 
 <h1 align="center">NexaraAI</h1>
