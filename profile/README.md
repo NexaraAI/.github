@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NexaraAI/nexaraai-brand/main/logo.png" width="140">
+  <img src="https://raw.githubusercontent.com/NexaraAI/NexaraAI/main/logo.png" width="140">
 </p>
 
 <h1 align="center">NexaraAI</h1>
@@ -12,14 +12,13 @@
 
 ## Overview
 
-**NexaraAI** is a next-generation artificial intelligence platform developed by  
-**DemonZ Development**, focused on delivering high-performance reasoning engines,
-developer-first tooling, and intelligent infrastructure for:
+**NexaraAI** is a next-generation artificial intelligence platform by  
+**DemonZ Development**, focused on building infrastructure-grade AI systems for:
 
-- Minecraft plugin ecosystems  
-- Web automation & orchestration platforms  
-- AI-assisted engineering workflows  
-- Conversational AI systems *(beta)*
+- 🧩 Intelligent Minecraft plugin ecosystems  
+- 🌍 Web automation & orchestration platforms  
+- ⚡ AI-assisted engineering workflows  
+- 💬 A conversational AI interface inspired by Claude, Gemini & GPT *(beta)*  
 
 NexaraAI is not a chatbot product — it is an **AI systems framework**.
 
@@ -27,27 +26,27 @@ NexaraAI is not a chatbot product — it is an **AI systems framework**.
 
 ## Model Architecture
 
-NexaraAI is designed for operation with **large-scale neural systems**.
+NexaraAI is designed to operate with large-scale neural systems.
 
-- 🧠 Target capacity: **~20 Billion parameters**
+- 🧠 Target capacity: **~20 Billion parameters**  
 - ⚙️ Modular multi-model orchestration layer  
 - 🛰️ Proxy-based distributed inference via Cloudflare Workers  
-- 🧩 Hot-swappable reasoning engines with automatic fallback  
+- 🧩 Hot-swappable reasoning engines with intelligent fallback  
 
-This architecture enables lightweight edge deployments while retaining
+This enables lightweight edge deployments while retaining
 enterprise-grade reasoning depth in the cloud.
 
 ---
 
 ## Platform Components
 
-| Component | Description | Status |
-|----------|-------------|--------|
-| Nexara Core | Central reasoning & orchestration engine | 🧪 In Development |
-| Nexara Workers | AI proxy & routing layer (Cloudflare) | ⚙️ Active |
-| Nexara Chat | Conversational AI interface | 🚧 Beta |
-| Nexara Minecraft | Intelligent plugin framework | 🧩 Planning |
-| Nexara Web | Web automation platform | 🔬 Research |
+| Component        | Description                                         | Status |
+|------------------|-----------------------------------------------------|--------|
+| Nexara Core      | Central reasoning & orchestration engine             | 🧪 In Development |
+| Nexara Workers   | AI proxy & routing layer (Cloudflare)               | ⚙️ Active |
+| Nexara Chat      | Conversational AI interface                         | 🚧 Beta |
+| Nexara Minecraft | Intelligent plugin framework                        | 🧩 Planning |
+| Nexara Web       | Web automation & developer tooling platform         | 🔬 Research |
 
 ---
 
@@ -55,10 +54,10 @@ enterprise-grade reasoning depth in the cloud.
 
 - Minimal surface area  
 - Deterministic system behavior  
-- Infrastructure-first design  
+- Infrastructure-first architecture  
 - Human-centered developer experience  
 
-No abstraction bloat. No unnecessary layers. Just **systems that scale.**
+No abstraction bloat. No gimmicks. Just **systems that scale.**
 
 ---
 
@@ -66,9 +65,9 @@ No abstraction bloat. No unnecessary layers. Just **systems that scale.**
 
 - `nexara-core` — reasoning engine & orchestration layer  
 - `nexara-workers` — distributed AI proxy infrastructure  
-- `nexara-minecraft` — smart plugin framework  
+- `nexara-minecraft` — smart Minecraft plugin framework  
 - `nexara-web` — platform UI & automation tools  
-- `nexaraai-brand` — identity, visual assets & media  
+- `nexaraai-brand` — branding & identity assets  
 
 ---
 
